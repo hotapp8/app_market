@@ -1,0 +1,91 @@
+.create-left{
+  text-align: right;
+}
+.create-right input,.create-right textarea{
+  margin: 20px 0;
+}
+.create-left label{
+  width: 100%;
+  height: 34px;
+  margin: 25px 0;
+}
+.create-left label span{
+  color: #008842;
+  font-size: 16px;
+}
+.qrcodegroup{
+  position: relative;
+}
+.create-right .qrcode{
+  opacity: 0;
+  position: absolute;
+  top:0;
+  left:0;
+  width: 80px;
+  height: 80px;
+  margin: 0;
+}
+.create-right .qrcode2{
+  opacity: 0;
+  position: absolute;
+  top:0;
+  left:0;
+  width: 155px;
+  height: 245px;
+  margin: 0;
+}
+.addcheckbox{
+  width: 50px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  border: 1px solid #ccc;
+  background: #fff;
+  font-weight: normal;
+  font-size: 12px;
+  margin: 3px;
+}
+.checkedtag{
+  width: 50px;
+  height: 20px;
+  margin: 0!important;
+  display: none;
+}
+.checkedgreen{
+
+  border-color:#57c164;
+  color: #57c164;
+}
+.qrcodeimgall{
+  width: 80px;
+  height: 80px;
+  float: left;
+
+}
+.qrcodeiconall{
+  width: 80px;
+  height: 80px;
+  float: left;
+
+
+}
+.screenshotall{
+  height: 245px;
+}
+
+
+.addsub{
+  padding: 60px;
+}
+.btn-save{
+  background: #57c164;
+  width: 120px;
+  height: 40px;
+  color: #fff;
+}
+.btn-exit{
+  width: 120px;
+  height: 40px;
+  background: #fff;
+  border: 1px solid #ccc;
+}

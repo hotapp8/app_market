@@ -1,0 +1,105 @@
+.show-top-left{
+  width: 99%;
+  height: 160px;
+  background: #fff;
+  margin: 20px 0;
+  padding: 30px 20px;
+
+}
+.show-top-right{
+  width: 99%;
+  height: 157px;
+  background: #fff;
+  margin: 20px 0;
+
+}
+.show-top-left dt img{
+  width: 100%;
+  height: 100%;
+}
+.show-top-left dl dt{
+  float: left;
+  width: 20%;
+}
+.show-top-left dl dd{
+  float: left;
+  padding-left: 20px;
+  width: 80%;
+}
+.show-top-left dl dd p{
+  margin: 0;
+  height: 25px;
+  line-height: 25px;
+}
+.show-top-left .market-name .collect img{
+  width: 18px;
+  height: 18px;
+}
+.show-top-left .market-name .collect{
+  float: right;
+}
+.show-content-left{
+  background: #fff;
+  padding: 20px;
+}
+.show-content-right{
+  background: #fff;
+  padding: 20px;
+}
+.show-content-right p{
+
+}
+.hotimg{
+  width: 50px;
+  height: 50px;
+  float: left;
+
+}
+.show-content-right p{
+  height: 50px;
+  line-height: 50px;
+}
+.show-img-box{
+  width: 100%;
+  height: 350px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.show-img{
+  width: 1100px;
+  height: 330px;
+}
+.show-img-box img{
+  width: 180px;
+  height: 330px;
+  margin: 0 10px;
+}
+textarea{
+  float: left;
+}
+.comment{
+  display: block;
+  background: #57c164;
+  color: #fff;
+  width: 90px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 5px;
+  float: left;
+  margin:45px 0 0 45px;
+}
+.show-comment-box{
+  overflow:hidden;
+}
+.commentlist dl dt{
+  width: 60px;
+  float: left;
+}
+.commentlist dl dd{
+
+}
+.commentlist dl dd b{
+  float: right;
+  font-weight: normal;
+}
