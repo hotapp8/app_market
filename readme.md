@@ -19,6 +19,8 @@
 
 `git clone && composer update`
 
+数据库导入 `migrate.sql`
+
 从 [minapp](https://minapp.com/miniapp/) 采集数据
 
 `php artisan crawl`
