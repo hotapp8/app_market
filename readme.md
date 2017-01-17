@@ -8,7 +8,7 @@
 
 ## 示例:  
 
-[Demo](http://www.applnk.cn/)
+[小程序市场体验](http://www.applnk.cn/)
 
 ![1](https://ww3.sinaimg.cn/large/006wyJZBgw1fbtg91vzx6j31hc0sv155.jpg)
 
@@ -17,6 +17,12 @@
 ![3](https://ww4.sinaimg.cn/large/006wyJZBgw1fbtgoglq5qj31hc0sw7b5.jpg)
 
 ![4](https://ww4.sinaimg.cn/large/006wyJZBgw1fbtgoia8jpj31hc0swtek.jpg)
+
+
+## 简介
+
+基于 laravel 5.1 开发
+
 
 
 ## 使用方法
