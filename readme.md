@@ -1,6 +1,11 @@
 # 芝麻小程序市场
 
-#### 示例:  
+
+芝麻小事网络科技（武汉）有限公司 版权所有
+首页必须有hotapp小程序统计的友情链接 http://weixin.hotapp.cn
+
+
+## 示例:  
 
 [Demo](http://www.applnk.cn/)
 
