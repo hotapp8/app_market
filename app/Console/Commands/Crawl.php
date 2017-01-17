@@ -63,6 +63,7 @@ class Crawl extends Command
                         'description'    => $value['description'],
                         'overall_rating' => $value['overall_rating'] * 10,
                         'icon'           => $value['icon']['image'],
+                        'available'      => 1,
                         'create_time'    => $value['created_at'],
                         'update_time'    => $value['created_at']
                     ]);
